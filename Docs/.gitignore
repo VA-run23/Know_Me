@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+**/node_modules
+
+# ignore all markdown and text files by default
+*.md
+*.txt
+
+# exceptions: keep README.md
+!README.md
+
+# exceptions: keep everything inside SDLC_Diagrams
+!SDLC_Diagrams/
+!SDLC_Diagrams/**
+!SDLC_Diagrams/**/*.md
+!SDLC_Diagrams/**/*.txt
