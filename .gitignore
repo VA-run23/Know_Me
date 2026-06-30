@@ -8,6 +8,7 @@
 
 # exceptions: keep README.md
 !README.md
+!ProgressLog..md
 
 # exceptions: keep everything inside SDLC_Diagrams
 !SDLC_Diagrams/
